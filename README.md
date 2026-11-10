@@ -1,2 +1,5 @@
-# retrieval-drift-emails_github_canvas_memory_terminal_3671-q7m3
-Project page for continual retrieval adaptation (ACL 2025)
+# retrieval-drift
+
+Repository status: 🚧 To be released
+
+This is the project page for **Continual Retrieval Adaptation under Distribution Drift** (ACL 2025). The full implementation will be published after the camera-ready version is finalised. Only placeholder scaffolding is present at the moment.
